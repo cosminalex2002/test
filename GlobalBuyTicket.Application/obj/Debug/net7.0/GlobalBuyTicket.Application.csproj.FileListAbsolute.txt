@@ -1,0 +1,26 @@
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\bin\Debug\net7.0\GlobalBuyTicket.Application.deps.json
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\bin\Debug\net7.0\GlobalBuyTicket.Application.dll
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\bin\Debug\net7.0\GlobalBuyTicket.Application.pdb
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.AssemblyInfoInputs.cache
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.AssemblyInfo.cs
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.csproj.CoreCompileInputs.cache
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.dll
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\obj\Debug\net7.0\refint\GlobalBuyTicket.Application.dll
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.pdb
+C:\Users\folariu\source\repos\GlobalBuyTicket\GlobalBuyTicket.Application\obj\Debug\net7.0\ref\GlobalBuyTicket.Application.dll
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\bin\Debug\net7.0\GlobalBuyTicket.Application.deps.json
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\bin\Debug\net7.0\GlobalBuyTicket.Application.dll
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\bin\Debug\net7.0\GlobalBuyTicket.Application.pdb
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\bin\Debug\net7.0\GlobalBuyTicket.Domain.dll
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\bin\Debug\net7.0\GlobalBuyTicket.Domain.pdb
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.csproj.AssemblyReference.cache
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.AssemblyInfoInputs.cache
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.AssemblyInfo.cs
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.csproj.CopyComplete
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.dll
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\obj\Debug\net7.0\refint\GlobalBuyTicket.Application.dll
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\obj\Debug\net7.0\GlobalBuyTicket.Application.pdb
+C:\Users\Cosmin\Desktop\GlobalBuyTicket.Application (1)\GlobalBuyTicket.Application\obj\Debug\net7.0\ref\GlobalBuyTicket.Application.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GlobalBuyTicket.Application/1.0.0": {
+        "dependencies": {
+          "GlobalBuyTicket.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GlobalBuyTicket.Application.dll": {}
+        }
+      },
+      "GlobalBuyTicket.Domain/1.0.0": {
+        "runtime": {
+          "GlobalBuyTicket.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GlobalBuyTicket.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GlobalBuyTicket.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
